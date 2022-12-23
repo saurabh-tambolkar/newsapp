@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 35,
+    "articles": [
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Samantha Subin",
+    "title": "Stock futures are flat on Friday morning - CNBC",
+    "description": "After a brief reprieve, the market resumed its December selloff on Thursday.",
+    "url": "https://www.cnbc.com/2022/12/22/stock-market-futures-open-to-close-news.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107162756-1670435615911-nys2.jpg?v=1671750134&w=1920&h=1080",
+    "publishedAt": "2022-12-23T05:49:00Z",
+    "content": "Stock futures inched up in early morning trading Friday.\r\nFutures tied to the Dow Jones Industrial Average gained 50 points, or 0.15%. S&amp;P 500 and Nasdaq 100 futures were up 0.12% and 0.03%, resp… [+1711 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "BBC News"
+    },
+    "author": "https://www.facebook.com/bbcnews",
+    "title": "US winter storm will bring frostbite within minutes - BBC",
+    "description": "Dangerously low temperatures are a serious threat, even in major cities around the US and Canada.",
+    "url": "https://www.bbc.com/news/world-us-canada-64061588",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/CBD4/production/_128108125_gettyimages-1245790860-1.jpg",
+    "publishedAt": "2022-12-23T04:41:28Z",
+    "content": "Media caption, BBC Weather's Matt Taylor looks in detail at the dangerously cold conditions\r\nPlunging temperatures wreaking havoc across the US and Canada can lead to frostbite on bare skin in only f… [+4002 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "ESPN"
+    },
+    "author": "Alden Gonzalez",
+    "title": "Dodgers' Trevor Bauer reinstated after suspension cut to 194 games - ESPN",
+    "description": "Trevor Bauer's suspension has been cut from 324 games to 194, and the right-hander has been reinstated, MLB said Thursday. The Dodgers have 14 days to decide whether to release him or add him to their 40-man roster.",
+    "url": "https://www.espn.com/mlb/story/_/id/35306975/dodgers-trevor-bauer-suspension-cut-reinstated-immediately",
+    "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F0701%2Fr874773_1296x729_16%2D9.jpg",
+    "publishedAt": "2022-12-23T04:24:35Z",
+    "content": "Trevor Bauer's initial 324-game suspension for violating Major League Baseball's domestic violence policy has been reduced to 194 games by an independent arbitrator, who also reinstated him.\r\nBauer's… [+9906 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "YouTube"
+    },
+    "author": null,
+    "title": "Jacksonville Jaguars vs. New York Jets | 2022 Week 16 Game Highlights - NFL",
+    "description": "Check out our other channels:NFL Mundo https://www.youtube.com/mundonflNFL Brasil https://www.youtube.com/c/NFLBrasilOficialNFL UK https://www.youtube.com/ch...",
+    "url": "https://www.youtube.com/watch?v=C-q2qw_LqoI",
+    "urlToImage": "https://i.ytimg.com/vi/C-q2qw_LqoI/maxresdefault.jpg",
+    "publishedAt": "2022-12-23T04:17:40Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Athletic"
+    },
+    "author": "Ken Rosenthal",
+    "title": "Rosenthal: How did Mets and Carlos Correa land at 12 years, $315 million? - The Athletic",
+    "description": "It’s not all that complicated.",
+    "url": "https://theathletic.com/4029332/2022/12/22/mets-correa-contract-details/",
+    "urlToImage": "https://cdn.theathletic.com/app/uploads/2022/12/22153823/USATSI_18737386-1024x683.jpg",
+    "publishedAt": "2022-12-23T04:08:14Z",
+    "content": "So, how was it that the Mets and Carlos Correa settled at 12 years and $315 million when they reached agreement on a free-agent contract early Wednesday morning?\r\nIts not all that complicated: The Me… [+2560 chars]"
+    },
+    {
+    "source": {
+    "id": "associated-press",
+    "name": "Associated Press"
+    },
+    "author": null,
+    "title": "Arizona to remove shipping container wall from Mexico border - The Associated Press - en Español",
+    "description": "PHOENIX (AP) — Arizona will take down a makeshift wall made of shipping containers  at the Mexico border, settling a lawsuit and political tussle  with the U.S.",
+    "url": "https://apnews.com/article/politics-mexico-arizona-phoenix-doug-ducey-59aa249ec787825a6c91cc4c12f42381",
+    "urlToImage": "https://storage.googleapis.com/afs-prod/media/963c817306c34373abbe2d8426543c39/3000.webp",
+    "publishedAt": "2022-12-23T03:52:47Z",
+    "content": "PHOENIX (AP) Arizona will take down a makeshift wall made of shipping containers at the Mexico border, settling a lawsuit and political tussle with the U.S. government over trespassing on federal lan… [+2499 chars]"
+    },
+    {
+    "source": {
+    "id": "usa-today",
+    "name": "USA Today"
+    },
+    "author": "Chris Bumbaca, USA TODAY",
+    "title": "Jets bench QB Zach Wilson for Chris Streveler in game vs. Jaguars - USA TODAY",
+    "description": "Quarterback Zach Wilson was benched during the third quarter of Thursday night's game vs. the Jaguars as the Jets turned to Chris Streveler.",
+    "url": "https://www.usatoday.com/story/sports/nfl/jets/2022/12/22/jets-bench-qb-zach-wilson-chris-streveler-jaguars/10947841002/",
+    "urlToImage": "https://www.gannett-cdn.com/presto/2022/12/23/USAT/0c19c3ec-8cbf-4fbc-bd24-af0819190600-USATSI_19671878.jpg?auto=webp&crop=2999,1687,x0,y125&format=pjpg&width=1200",
+    "publishedAt": "2022-12-23T03:51:00Z",
+    "content": "Given his performance this season, Zach Wilson being benched isn't a newsflash anymore. \r\nBut the quarterback who came in for the New York Jets was a bit of a surprise. \r\nThe Jets activated Chris Str… [+3449 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Guardian"
+    },
+    "author": "Samantha Lock",
+    "title": "Latest Soyuz capsule leak prompts Russians to plan possible rescue of space station crew - The Guardian",
+    "description": "Cause of puncture remains unclear as officials say damage continues to be assessed",
+    "url": "https://www.theguardian.com/science/2022/dec/23/latest-soyuz-capsule-leak-prompts-russians-to-plan-possible-rescue-of-space-station-crew",
+    "urlToImage": "https://i.guim.co.uk/img/media/425982ffddf5a29e9ee4c88da35a50801c5242a5/22_0_1889_1133/master/1889.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2d019ae2c1c1bf47465724fd524248bb",
+    "publishedAt": "2022-12-23T03:33:00Z",
+    "content": "Russia is considering a rescue plan to send an empty spacecraft to the International Space Station (ISS) to bring home three stranded crew members after their Soyuz crew capsule sprang a leak while d… [+3406 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "BBC News"
+    },
+    "author": "https://www.facebook.com/bbcnews",
+    "title": "Airport strikes: Border Force staff begin Christmas walkout - BBC",
+    "description": "Travellers arriving in the UK are warned to expect disruption and delays as staff who check passports go on strike.",
+    "url": "https://www.bbc.com/news/business-64060584",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/274C/production/_128106001_border.jpg",
+    "publishedAt": "2022-12-23T03:19:23Z",
+    "content": "Hundreds of thousands of travellers arriving in the UK have been told to expect disruption as passport control workers begin strikes.\r\nBorder Force staff are the latest UK workers to take action as r… [+4869 chars]"
+    },
+    {
+    "source": {
+    "id": "the-washington-post",
+    "name": "The Washington Post"
+    },
+    "author": "Tyler Pager, Yasmeen Abutaleb",
+    "title": "Deep secrecy, high risk: How Zelensky's improbable D.C. visit came together - The Washington Post",
+    "description": "The Ukrainian president's emotional visit to D.C. was prepared by a flurry of top-secret diplomacy, a recognition of the stakes and a blunt calculation of the risks",
+    "url": "https://www.washingtonpost.com/politics/2022/12/22/behind-zelensky-dramatic-dc-trip/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2VKUPCMKEXA2YNWNHYPPZHIRXI.JPG&w=1440",
+    "publishedAt": "2022-12-23T03:00:00Z",
+    "content": "Comment on this story\r\nWhen a U.S. military aircraft landed on the tarmac in Rzeszow, Poland, on Tuesday, the plane crew thought they were picking up the U.S. ambassador to Ukraine and a few high-lev… [+10714 chars]"
+    },
+    {
+    "source": {
+    "id": "axios",
+    "name": "Axios"
+    },
+    "author": "Alayna Treene",
+    "title": "Senate passes $1.7 trillion government funding bill - Axios",
+    "description": "The legislation will fund the government through next September.",
+    "url": "https://www.axios.com/2022/12/22/omnibus-government-spending-bill-2022",
+    "urlToImage": "https://images.axios.com/k8GLI4WwZaLJprTxQoUPElSaE7c=/0x192:2518x1608/1366x768/2022/12/22/1671728414621.jpg",
+    "publishedAt": "2022-12-23T02:49:13Z",
+    "content": "The Senate passed the nearly $1.7 trillion long-term, government funding bill 68-29 on Thursday, sending the measure to the House for quick passage before a looming deadline.\r\nWhy it matters: The leg… [+4036 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Kevin Breuninger, Dan Mangan",
+    "title": "Jan. 6 House committee releases final report on Trump Capitol riot investigation - CNBC",
+    "description": "The Jan. 6 panel voted this week to refer Trump to the DOJ for possible prosecution over efforts to overturn his election loss to President Joe Biden.",
+    "url": "https://www.cnbc.com/2022/12/22/trump-capitol-riot-jan-6-committee-issues-final-report.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107168523-16714798402022-12-19t195602z_1165840266_rc279y95ctgy_rtrmadp_0_usa-capitol-security.jpeg?v=1671763712&w=1920&h=1080",
+    "publishedAt": "2022-12-23T02:48:00Z",
+    "content": "U.S. Rep. Jamie Raskin (D-MD) carries the comittee's final report as he departs after the final public meeting of the U.S. House Select Committee investigating the January 6 Attack on the U.S. Capito… [+10248 chars]"
+    },
+    {
+    "source": {
+    "id": "the-wall-street-journal",
+    "name": "The Wall Street Journal"
+    },
+    "author": "Adolfo Flores, Jim Carlton, Preetika Rana, Suryatapa Bhattacharya, Joseph Pisani, Alison Sider",
+    "title": "Winter Storm Live Updates: Snow and Freezing Temps Across U.S. Impact Thousands of Flights - The Wall Street Journal",
+    "description": "A powerful winter storm is bringing record-breaking cold temperatures, frigid wind chills and heavy snow across a large swath of the U.S., threatening to upend holiday travel.",
+    "url": "https://www.wsj.com/livecoverage/winter-storm-holiday-travel-flights-snow",
+    "urlToImage": "https://images.wsj.net/im-690787/social",
+    "publishedAt": "2022-12-23T02:23:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "the-verge",
+    "name": "The Verge"
+    },
+    "author": "Richard Lawler",
+    "title": "FTX co-founder Sam Bankman-Fried is back in the US, released on $250 million bail - The Verge",
+    "description": "Sam Bankman-Fried was released from federal custody to live with his parents while awaiting trial on fraud and money laundering charges relating to his failed crypto exchange FTX.",
+    "url": "https://www.theverge.com/2022/12/22/23523149/sam-bankman-fried-250m-bail-ftx-crypto-fraud",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/hKTsJ4kH95ULYiT6T8TXIYcteWE=/221x79:4775x2900/1200x628/filters:focal(2505x1214:2506x1215)/cdn.vox-cdn.com/uploads/chorus_asset/file/24312564/1245786421.jpg",
+    "publishedAt": "2022-12-23T02:17:00Z",
+    "content": "FTX co-founder Sam Bankman-Fried is back in the US, released on $250 million bail\r\nFTX co-founder Sam Bankman-Fried is back in the US, released on $250 million bail\r\n / Former executives from SBFs cr… [+4226 chars]"
+    },
+    {
+    "source": {
+    "id": "the-verge",
+    "name": "The Verge"
+    },
+    "author": "Mitchell Clark",
+    "title": "Read Microsoft's response to the FTC's Activision Blizzard lawsuit - The Verge",
+    "description": "Microsoft is once again explaining why it should be allowed to buy Activision Blizzard King, this time in response to a lawsuit brought on by regulators who expressed concern about competition.",
+    "url": "https://www.theverge.com/23523563/read-microsoft-response-ftc-antitrust-complaint-activision-blizzard-king",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/n2SnFRk93CgmoGa7JQVfCM4V5v8=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/23926024/acastro_STK048_03.jpg",
+    "publishedAt": "2022-12-23T02:17:00Z",
+    "content": "Read Microsofts response to the FTCs Activision Blizzard lawsuit\r\nRead Microsofts response to the FTCs Activision Blizzard lawsuit\r\n / The company has filed a 37-page document explaining why it think… [+2744 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Billboard"
+    },
+    "author": "Ashley Iasimone",
+    "title": "Megan Thee Stallion's Boyfriend Pardison Fontaine Shares Message in Support of Women Amid Tory Lanez Trial - Billboard",
+    "description": "“In an instant you can go from victim to defendant in the eyes of the public,” Pardi wrote on Instagram.",
+    "url": "https://www.billboard.com/music/music-news/megan-thee-stallion-boyfriend-pardison-fontaine-statement-tory-lanez-trial-1235191248/",
+    "urlToImage": "https://www.billboard.com/wp-content/uploads/2022/01/Megan-Thee-Stallion-and-Pardison-Fontaine-2021-billboard-1548.jpg?w=1024",
+    "publishedAt": "2022-12-23T02:08:47Z",
+    "content": "As jurors decide whether Tory Lanez shot Megan Thee Stallion in the foot two years ago, Megan’s boyfriend, Pardison Fontaine, is publicly sharing some thoughts on social media.\r\n“To any woman especia… [+1449 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Guardian"
+    },
+    "author": "Guardian staff reporter",
+    "title": "Taliban minister defends closing universities to women as global backlash grows - The Guardian",
+    "description": "Neda Mohammad Nadeem says ban was necessary to prevent mixing of genders as rare protests break out",
+    "url": "https://www.theguardian.com/world/2022/dec/23/taliban-minister-defends-closing-universities-to-women-as-global-backlash-grows",
+    "urlToImage": "https://i.guim.co.uk/img/media/cc38703065c90a3f34c3b56113d4d0289551d6b9/120_0_1800_1080/master/1800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9d48de18b999e21bcb360c79753fe4a7",
+    "publishedAt": "2022-12-23T01:50:00Z",
+    "content": "The minister of higher education in Afghanistans Taliban government has defended his decision to ban women from universities a decree that triggered a global backlash and protests inside the country.… [+4159 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AZCentral"
+    },
+    "author": ", The Arizona Republic",
+    "title": "Kari Lake's 2-day election challenge trial ends; judge now decides - The Arizona Republic",
+    "description": "Republican Kari Lake is trying to prove the Nov. 8 election for Arizona governor was rigged against her, causing a loss to Democrat Katie Hobbs.",
+    "url": "https://www.azcentral.com/story/news/politics/elections/2022/12/23/kari-lake-trial-election-challenge-arizona-governor-ends-judge-decides/69752580007/",
+    "urlToImage": "https://www.gannett-cdn.com/presto/2022/12/23/PPHX/7d5cf30f-94b0-4381-95c2-b4b162b4c21f-b5eba579-e030-4227-904b-842e575db364_thumbnail.png?auto=webp&crop=848,477,x4,y3&format=pjpg&width=1200",
+    "publishedAt": "2022-12-23T01:28:11Z",
+    "content": "Kari Lakes two-day election challenge ended Thursday without any evidence presented that election problems were engineered by Maricopa County officials and her opponent.\r\nMaricopa County Superior Cou… [+5459 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Annie Grayer, Zachary Cohen",
+    "title": "'He knows he lost': Cassidy Hutchinson testified that Trump acknowledged he lost 2020 election - CNN",
+    "description": "Shortly after the 2020 election was called for Joe Biden, then-White House chief of staff Mark Meadows told his aide, Cassidy Hutchinson, that President Donald Trump knew he lost but wanted to keep fighting to overturn the results, according to a newly releas…",
+    "url": "https://www.cnn.com/2022/12/22/politics/cassidy-hutchinson-trump-fighting-secret-service/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221116154118-cassidy-hutchinson-jan-6-hearing-0628.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2022-12-23T01:22:00Z",
+    "content": "Shortly after the 2020 election was called for Joe Biden, then-White House chief of staff Mark Meadows told his aide, Cassidy Hutchinson, that President Donald Trump knew he lost but wanted to keep f… [+5255 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Selina Wang, Nectar Gan",
+    "title": "As crematoriums fill up, China shifts how it counts Covid deaths - CNN",
+    "description": "The prospect of a rising death toll, projected by some studies to be as high as one million, has become a thorny issue for a government that staked its legitimacy on \"saving lives.\"",
+    "url": "https://www.cnn.com/2022/12/22/china/china-covid-deaths-crematorium-intl-hnk-mic/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221222045354-china-covid-deaths-crematorium-intl-hnk.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2022-12-23T00:18:00Z",
+    "content": "For much of the pandemic, images of overflowing hospitals and busy funeral homes from the United States have featured heavily on Chinas state-controlled television, where the deaths of over a million… [+6571 chars]"
+    }
+    ]
+}
